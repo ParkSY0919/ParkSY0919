@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
-#Park.SinYoung
 
 <a href="https://990919-psy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/My_Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
