@@ -1,202 +1,55 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1B1F3A,50:2563EB,100:22C55E&height=220&section=header&text=psy&fontSize=62&fontColor=F8FAFC&animation=fadeIn" width="100%" alt="psy header"/>
-</div>
+## Introduction 🙌
 
-<div align="center">
-  <h3>Minimal Profile Canvas for <code>psy</code></h3>
-  <p>필요한 정보만 또렷하게 보여주고, 나머지는 채워 넣을 수 있게 설계한 프로필 README 템플릿입니다.</p>
-</div>
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<p align="center">
-  <a href="#profile-canvas"><img src="https://img.shields.io/badge/Profile_Canvas-111827?style=flat-square&logo=aboutdotme&logoColor=white" alt="profile"/></a>
-  <a href="#career-timeline"><img src="https://img.shields.io/badge/Career_Timeline-334155?style=flat-square&logo=clockify&logoColor=white" alt="career"/></a>
-  <a href="#awards-archive"><img src="https://img.shields.io/badge/Awards_Archive-0F766E?style=flat-square&logo=trophy&logoColor=white" alt="awards"/></a>
-  <a href="#stack-matrix"><img src="https://img.shields.io/badge/Stack_Matrix-1D4ED8?style=flat-square&logo=stackshare&logoColor=white" alt="stack"/></a>
-  <a href="#project-deck"><img src="https://img.shields.io/badge/Project_Deck-166534?style=flat-square&logo=github&logoColor=white" alt="projects"/></a>
-</p>
+[![GitAnimals Farm](https://render.gitanimals.org/farms/ParkSY0919)](https://render.gitanimals.org/farms/ParkSY0919)
 
----
+<br>
 
-## Profile Canvas
+### 📱 Main Projects
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
+|                                                                   |                                                                                                                                                                                                                      |
+| ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="APP_LOGO_GLINT_URL" width="50" height="50">             | **GLINT-iOS** (`25.05 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/GLINT-iOS) \| [~~앱스토어~~](#)<br>SwiftUI, UIKit, Core Image, Socket.IO, Firebase(FCM)<br>이미지 필터 제작/공유와 실시간 채팅 중심 iOS 앱 |
+| <img src="APP_LOGO_BREADSTAMP_URL" width="50" height="50">        | **BreadStamp** (`26.01 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/BreadStamp) \| [앱스토어](#)<br>SwiftUI, SwiftData, MapKit<br>빵집 탐방 스탬프북 개인 앱                                                  |
+| <img src="APP_LOGO_SEONGJICHELIN_URL" width="50" height="50">     | **SeongjiChelin** (`26.01 ~ 26.03`) \| [GitHub](https://github.com/ParkSY0919/SeongjiChelin) \| [앱스토어](#)<br>SwiftUI, Node.js, GitHub Actions<br>맛집 데이터 검증 자동화와 앱 데이터 운영 프로젝트               |
+| <img src="APP_LOGO_SEONGJICHELIN_IOS_URL" width="50" height="50"> | **SeongjiChelin-iOS** (`25.03 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/SeongjiChelin-iOS) \| [앱스토어](#)<br>Swift, UIKit/SwiftUI<br>맛집 탐색 iOS 앱 프로젝트                                           |
+| <img src="APP_LOGO_DATEROAD_URL" width="50" height="50">          | **DATEROAD-iOS** (`25.05 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/DATEROAD-iOS) \| [앱스토어](#)<br>Swift<br>데이트 코스 추천 서비스 프로젝트                                                             |
+| <img src="APP_LOGO_HETJE_URL" width="50" height="50">             | **Het-Je-iOS** (`25.03 ~ 25.10`) \| [GitHub](https://github.com/ParkSY0919/Het-Je-iOS) \| [앱스토어](#)<br>Swift<br>코인 시세/NFT 탐색 iOS 앱                                                                        |
+| <img src="APP_LOGO_LIFEISSULSUL_URL" width="50" height="50">      | **LifeIsSulSul** (`25.08 ~ 25.08`) \| [GitHub](https://github.com/ParkSY0919/LifeIsSulSul) \| [앱스토어](#)<br>Swift<br>주류/맛집 관련 iOS 앱 프로젝트                                                               |
+| <img src="APP_LOGO_FILMAT_URL" width="50" height="50">            | **FilmAt-iOS** (`25.01 ~ 25.08`) \| [GitHub](https://github.com/ParkSY0919/FilmAt-iOS) \| [앱스토어](#)<br>Swift<br>영화 정보 탐색 iOS 앱                                                                            |
+| <img src="APP_LOGO_TAMAGROW_URL" width="50" height="50">          | **TamaGrow-iOS** (`25.02 ~ 25.03`) \| [GitHub](https://github.com/ParkSY0919/TamaGrow-iOS) \| [앱스토어](#)<br>Swift<br>가상 펫 육성 iOS 앱                                                                          |
 
-### Identity
+### 🛠 Side Projects
 
-- Name: `psy`
-- Headline: `[ ]`
-- One-liner: `[ ]`
-- Focus Area: `[ ]`
+| Project                                      | Description                         | Tech Stack               | Links                                                                |
+| -------------------------------------------- | ----------------------------------- | ------------------------ | -------------------------------------------------------------------- |
+| **[MCP_Practice]** (`25.12`)                 | MCP 실험/연습 저장소                | Swift, MCP               | [GitHub](https://github.com/ParkSY0919/MCP_Practice)                 |
+| **[GithubActions-Practice]** (`25.10`)       | GitHub Actions 자동화 연습          | GitHub Actions, CI/CD    | [GitHub](https://github.com/ParkSY0919/GithubActions-Practice)       |
+| **[NotificationService-Practice]** (`25.10`) | Notification Service Extension 연습 | Swift, UserNotifications | [GitHub](https://github.com/ParkSY0919/NotificationService-Practice) |
+| **[LiDARScanner-Practice]** (`25.09`)        | LiDAR 기능 연습 프로젝트            | Swift, LiDAR             | [GitHub](https://github.com/ParkSY0919/LiDARScanner-Practice)        |
+| **[MQTT-Practice]** (`25.09`)                | MQTT 통신 연습 프로젝트             | Swift, MQTT              | [GitHub](https://github.com/ParkSY0919/MQTT-Practice)                |
 
-### Working Style
+<br>
 
-1. 문제 정의(Problem Framing): `[ ]`
-2. 실행 방식(Execution Style): `[ ]`
-3. 협업 방식(Collaboration): `[ ]`
+### 📦 Open Source
 
-### Current Goal
+|                                                                |                                                                                                                                                                                                                       |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="LIB_LOGO_COLORKIT_URL" width="50" height="50">       | **ColorKit** (`25.09 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/ColorKit)<br>Swift Package Manager, Design Token(JSON), Build Tool Plugin<br>디자인 토큰 기반 색상 로딩 및 코드 생성 라이브러리              |
+| <img src="LIB_LOGO_UPDATECHECKKIT_URL" width="50" height="50"> | **UpdateCheckKit** (`25.10 ~ 26.03`) \| [GitHub](https://github.com/ParkSY0919/UpdateCheckKit)<br>Swift Package Manager, App Store Lookup, Version Check<br>업데이트 체크/알림/스토어 이동 흐름을 단순화한 라이브러리 |
+| <img src="LIB_LOGO_KNOCKER_URL" width="50" height="50">        | **Knocker** (`25.12 ~ 26.01`) \| [GitHub](https://github.com/SwiftForge-psy/Knocker)<br>Swift Package Manager, Push Notification, Rich Notification<br>푸시 권한/토큰/페이로드 처리 통합 라이브러리                   |
 
-`[ ]`
+<br>
 
-  </td>
-  <td width="38%" valign="top">
+### 🧩 Activity
 
-### Snapshot
-
-| Item | Value |
-| --- | --- |
-| Role | `[ ]` |
-| Main Platform | `[ ]` |
-| Sub Platform | `[ ]` |
-| Location | `[ ]` |
-| Time Zone | `[ ]` |
-| Open To | `[ ]` |
-
-### Link Bar
-
-- Portfolio: `[ ]`
-- Resume: `[ ]`
-- Blog: `[ ]`
-- Email: `[ ]`
-
-  </td>
-  </tr>
-</table>
-
----
-
-## Career Timeline
-
-| Phase | Period | Organization | Position | Description |
-| --- | --- | --- | --- | --- |
-| 01 | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
-| 02 | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
-| 03 | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
-| 04 | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
-| 05 | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
-| 06 | `[ ]` | `[ ]` | `[ ]` | `[ ]` |
-
----
-
-## Awards Archive
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Award 01</strong><br/>
-      Date: <code>[ ]</code><br/>
-      Host: <code>[ ]</code><br/>
-      Result: <code>[ ]</code>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Award 02</strong><br/>
-      Date: <code>[ ]</code><br/>
-      Host: <code>[ ]</code><br/>
-      Result: <code>[ ]</code>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Award 03</strong><br/>
-      Date: <code>[ ]</code><br/>
-      Host: <code>[ ]</code><br/>
-      Result: <code>[ ]</code>
-    </td>
-  </tr>
-</table>
-
----
-
-## Stack Matrix
-
-| Zone | Description | Items |
-| --- | --- | --- |
-| Core (Production) | 실제 프로젝트(Production)에서 주력으로 쓰는 기술 | `[ ]` |
-| Active (Hands-on) | 현재 적극적으로 개발 중인 기술 | `[ ]` |
-| Learning (Exploring) | 학습 및 실험(Experiment) 중인 기술 | `[ ]` |
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Core-1E293B?style=for-the-badge" alt="core"/>
-  <img src="https://img.shields.io/badge/Active-2563EB?style=for-the-badge" alt="active"/>
-  <img src="https://img.shields.io/badge/Learning-16A34A?style=for-the-badge" alt="learning"/>
-</div>
-
----
-
-## GitHub Telemetry
-
-<!-- username=psy. 실제 GitHub ID로 교체해서 사용하세요. -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psy&show_icons=true&hide_border=true&title_color=0F172A&icon_color=2563EB&text_color=334155&bg_color=ffffff" width="49%" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=psy&hide_border=true&ring=2563EB&fire=16A34A&currStreakLabel=334155" width="49%" alt="streak"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=psy&bg_color=ffffff&color=0f172a&line=2563eb&point=334155&area=true&hide_border=true" width="98%" alt="activity graph"/>
-</div>
-
----
-
-## Project Deck
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Project 01</strong><br/>
-      Period: <code>[ ]</code><br/>
-      Role: <code>[ ]</code><br/>
-      Stack: <code>[ ]</code><br/>
-      Summary: <code>[ ]</code><br/>
-      Link: <code>[ ]</code>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Project 02</strong><br/>
-      Period: <code>[ ]</code><br/>
-      Role: <code>[ ]</code><br/>
-      Stack: <code>[ ]</code><br/>
-      Summary: <code>[ ]</code><br/>
-      Link: <code>[ ]</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Project 03</strong><br/>
-      Period: <code>[ ]</code><br/>
-      Role: <code>[ ]</code><br/>
-      Stack: <code>[ ]</code><br/>
-      Summary: <code>[ ]</code><br/>
-      Link: <code>[ ]</code>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Project 04</strong><br/>
-      Period: <code>[ ]</code><br/>
-      Role: <code>[ ]</code><br/>
-      Stack: <code>[ ]</code><br/>
-      Summary: <code>[ ]</code><br/>
-      Link: <code>[ ]</code>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><strong>Project Note Template</strong></summary>
-
-```text
-[Project Name]
-- Problem: [ ]
-- Approach: [ ]
-- Result: [ ]
-- What I Learned: [ ]
-```
-
-</details>
-
----
-
-## Contact
-
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Blog-0EA5E9?style=for-the-badge&logo=rss&logoColor=white" alt="blog"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-</p>
+| 기간                | 대외활동     | 역할       |
+| ------------------- | ------------ | ---------- |
+| `YYYY.MM ~ YYYY.MM` | `[활동명 1]` | `[역할 1]` |
+| `YYYY.MM ~ YYYY.MM` | `[활동명 2]` | `[역할 2]` |
+| `YYYY.MM ~ YYYY.MM` | `[활동명 3]` | `[역할 3]` |
