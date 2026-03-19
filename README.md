@@ -10,6 +10,7 @@
 
 <br>
 
+
 ### 📱 Main Projects
 
 |                                                                   |                                                                                                                                                                                                                      |
@@ -22,7 +23,7 @@
 | <img src="https://github.com/user-attachments/assets/ac62f6a6-2353-4c2d-8860-568d9fc0399a" width="50" height="50">             | **Het-Je** (`25.03 ~ 25.10`) \| [GitHub](https://github.com/ParkSY0919/Het-Je-iOS) \| [앱스토어](#)<br>UIKit<br>코인 시세/NFT 탐색 앱                                                                        |
 | <img src="https://github.com/user-attachments/assets/6a2b3ec0-567d-4d7a-a177-17a635e0ce77" width="50" height="50">      | **LifeIsSulSul** (`25.08 ~ 25.08`) \| [GitHub](https://github.com/ParkSY0919/LifeIsSulSul) \| [앱스토어](#)<br>UIKit<br>주량 체크 앱                                                             |
 | <img src="https://github.com/user-attachments/assets/246b8945-83d4-4550-abba-e6ccae9acf10" width="50" height="50">            | **FilmAt** (`25.01 ~ 25.08`) \| [GitHub](https://github.com/ParkSY0919/FilmAt-iOS) \| [앱스토어](#)<br>UIKit<br>영화 정보 탐색 앱                                                                            |
-| <img src="APP_LOGO_TAMAGROW_URL" width="50" height="50">          | **TamaGrow-iOS** (`25.02 ~ 25.03`) \| [GitHub](https://github.com/ParkSY0919/TamaGrow-iOS) \| [앱스토어](#)<br>UIKit<br>타마고치 모티브 육성 앱                                                                          |
+| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="50">          | **TamaGrow-iOS** (`25.02 ~ 25.03`) \| [GitHub](https://github.com/ParkSY0919/TamaGrow-iOS) \| [앱스토어](#)<br>UIKit<br>타마고치 모티브 육성 앱                                                                          |
 
 ### 🛠 Side Projects
 
@@ -40,9 +41,9 @@
 
 |                                                                |                                                                                                                                                                                                                       |
 | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="LIB_LOGO_COLORKIT_URL" width="50" height="50">       | **ColorKit** (`25.09 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/ColorKit)<br>Swift Package Manager, Design Token(JSON), Build Tool Plugin<br>디자인 토큰 기반 색상 로딩 및 코드 생성 라이브러리              |
-| <img src="LIB_LOGO_UPDATECHECKKIT_URL" width="50" height="50"> | **UpdateCheckKit** (`25.10 ~ 26.03`) \| [GitHub](https://github.com/ParkSY0919/UpdateCheckKit)<br>Swift Package Manager, App Store Lookup, Version Check<br>업데이트 체크/알림/스토어 이동 흐름을 단순화한 라이브러리 |
-| <img src="LIB_LOGO_KNOCKER_URL" width="50" height="50">        | **Knocker** (`25.12 ~ 26.01`) \| [GitHub](https://github.com/SwiftForge-psy/Knocker)<br>Swift Package Manager, Push Notification, Rich Notification<br>푸시 권한/토큰/페이로드 처리 통합 라이브러리                   |
+| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="50">       | **ColorKit** (`25.09 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/ColorKit)<br>Swift Package Manager, Design Token(JSON), Build Tool Plugin<br>디자인 토큰 기반 색상 로딩 및 코드 생성 라이브러리              |
+| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="50"> | **UpdateCheckKit** (`25.10 ~ 26.03`) \| [GitHub](https://github.com/ParkSY0919/UpdateCheckKit)<br>Swift Package Manager, App Store Lookup, Version Check<br>업데이트 체크/알림/스토어 이동 흐름을 단순화한 라이브러리 |
+| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="50">        | **Knocker** (`25.12 ~ 26.01`) \| [GitHub](https://github.com/SwiftForge-psy/Knocker)<br>Swift Package Manager, Push Notification, Rich Notification<br>푸시 권한/토큰/페이로드 처리 통합 라이브러리                   |
 
 <br>
 
@@ -50,6 +51,7 @@
 
 | 기간                | 대외활동     | 역할       |
 | ------------------- | ------------ | ---------- |
-| `YYYY.MM ~ YYYY.MM` | `[활동명 1]` | `[역할 1]` |
-| `YYYY.MM ~ YYYY.MM` | `[활동명 2]` | `[역할 2]` |
-| `YYYY.MM ~ YYYY.MM` | `[활동명 3]` | `[역할 3]` |
+| `2024.12 ~ 2025.06` | `SeSAC iOS` | `수료생` |
+| `2024.03 ~ 2024.07` | `SOPT 34기` | `iOS 파트원` |
+| `2023.09 ~ 2024.02` | `CodingBottle-1st` | `iOS 파트장` |
+| `2022.09 ~ 2023.03` | `GDSC SKHU-1st` | `모바일 파트원` |
