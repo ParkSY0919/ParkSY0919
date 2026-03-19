@@ -22,7 +22,7 @@
 | <img src="https://github.com/user-attachments/assets/ac62f6a6-2353-4c2d-8860-568d9fc0399a" width="50" height="50">             | **Het-Je** (`25.03 ~ 25.10`) \| [GitHub](https://github.com/ParkSY0919/Het-Je-iOS)  <br>UIKit<br>코인 시세/NFT 탐색 앱                                                                        |
 | <img src="https://github.com/user-attachments/assets/6a2b3ec0-567d-4d7a-a177-17a635e0ce77" width="50" height="50">      | **LifeIsSulSul** (`25.08 ~ 25.08`) \| [GitHub](https://github.com/ParkSY0919/LifeIsSulSul) <br>UIKit<br>주량 체크 앱                                                             |
 | <img src="https://github.com/user-attachments/assets/246b8945-83d4-4550-abba-e6ccae9acf10" width="50" height="50">            | **FilmAt** (`25.01 ~ 25.08`) \| [GitHub](https://github.com/ParkSY0919/FilmAt-iOS) <br>UIKit<br>영화 정보 탐색 앱                                                                            |
-| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="50">          | **TamaGrow-iOS** (`25.02 ~ 25.03`) \| [GitHub](https://github.com/ParkSY0919/TamaGrow-iOS) <br>UIKit<br>타마고치 모티브 육성 앱                                                                          |
+| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="50">          | **TamaGrow-iOS** (`25.02 ~ 25.03`) \| [GitHub](https://github.com/ParkSY0919/TamaGrow-iOS) <br>UIKit<br>다마고치 모티브 육성 앱                                                                          |
 
 ### 🛠 Side Projects
 
