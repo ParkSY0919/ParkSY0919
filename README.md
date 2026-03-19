@@ -15,15 +15,15 @@
 
 |                                                                   |                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/4ef6812a-bbdd-4fc9-a811-3ce65b49962d" width="50" height="50">             | **GLINT-iOS** (`25.05 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/GLINT-iOS) \| [~~앱스토어~~](#)<br>SwiftUI, UIKit, Core Image, Socket.IO, Firebase(FCM)<br>이미지 필터 제작/판매와 실시간 채팅 중심 앱 |
-| <img src="https://github.com/user-attachments/assets/4bf84c60-bb6b-455e-8b7a-90e86a80f335" width="50" height="50">        | **BreadStamp** (`26.01 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/BreadStamp) \| [앱스토어](#)<br>SwiftUI, SwiftData, MapKit<br>빵집 탐방 스탬프북 개인 앱                                                  |
-| <img src="https://github.com/user-attachments/assets/4cc6916e-ba05-4c6e-92d0-f758832f5769" width="50" height="50">     | **SeongjiChelin_v2** (`26.01 ~ 26.03`) \| [GitHub](https://github.com/ParkSY0919/SeongjiChelin) \| [앱스토어](#)<br>UIKit, Node.js, GitHub Actions<br>맛집 탐색 앱 v2       |
-| <img src="https://github.com/user-attachments/assets/545164e9-e9e8-4d45-a3d0-6ee67be1c418" width="50" height="50"> | **SeongjiChelin_v1** (`25.03 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/SeongjiChelin-iOS) \| [앱스토어](#)<br>UIKit, Realm<br>맛집 탐색 앱 v1                                           |
-| <img src="https://github.com/user-attachments/assets/b851c148-2545-4ce2-96d1-9e65ee452484" width="50" height="50">          | **DATEROAD** (`25.05 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/DATEROAD-iOS) \| [앱스토어](#)<br>UIKit<br>데이트 코스 추천 서비스 앱                              |
-| <img src="https://github.com/user-attachments/assets/ac62f6a6-2353-4c2d-8860-568d9fc0399a" width="50" height="50">             | **Het-Je** (`25.03 ~ 25.10`) \| [GitHub](https://github.com/ParkSY0919/Het-Je-iOS) \| [앱스토어](#)<br>UIKit<br>코인 시세/NFT 탐색 앱                                                                        |
-| <img src="https://github.com/user-attachments/assets/6a2b3ec0-567d-4d7a-a177-17a635e0ce77" width="50" height="50">      | **LifeIsSulSul** (`25.08 ~ 25.08`) \| [GitHub](https://github.com/ParkSY0919/LifeIsSulSul) \| [앱스토어](#)<br>UIKit<br>주량 체크 앱                                                             |
-| <img src="https://github.com/user-attachments/assets/246b8945-83d4-4550-abba-e6ccae9acf10" width="50" height="50">            | **FilmAt** (`25.01 ~ 25.08`) \| [GitHub](https://github.com/ParkSY0919/FilmAt-iOS) \| [앱스토어](#)<br>UIKit<br>영화 정보 탐색 앱                                                                            |
-| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="50">          | **TamaGrow-iOS** (`25.02 ~ 25.03`) \| [GitHub](https://github.com/ParkSY0919/TamaGrow-iOS) \| [앱스토어](#)<br>UIKit<br>타마고치 모티브 육성 앱                                                                          |
+| <img src="https://github.com/user-attachments/assets/4ef6812a-bbdd-4fc9-a811-3ce65b49962d" width="50" height="50">             | **GLINT-iOS** (`25.05 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/GLINT-iOS) \| [~~AppStore~~](#)<br>SwiftUI, UIKit, Core Image, Socket.IO, Firebase(FCM)<br>이미지 필터 제작/판매와 실시간 채팅 중심 앱 |
+| <img src="https://github.com/user-attachments/assets/4bf84c60-bb6b-455e-8b7a-90e86a80f335" width="50" height="50">        | **BreadStamp** (`26.01 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/BreadStamp) \| [출시 준비중](#)<br>SwiftUI, SwiftData, MapKit<br>빵집 탐방 스탬프북 개인 앱                                                  |
+| <img src="https://github.com/user-attachments/assets/4cc6916e-ba05-4c6e-92d0-f758832f5769" width="50" height="50">     | **SeongjiChelin_v2** (`26.01 ~ 26.03`) \| [GitHub](https://github.com/ParkSY0919/SeongjiChelin) \| [~~AppStore~~](#)<br>UIKit, Node.js, GitHub Actions<br>맛집 탐색 앱 v2       |
+| <img src="https://github.com/user-attachments/assets/545164e9-e9e8-4d45-a3d0-6ee67be1c418" width="50" height="50"> | **SeongjiChelin_v1** (`25.03 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/SeongjiChelin-iOS) \| [AppStore](https://apps.apple.com/kr/app/%EC%84%B1%EC%A7%80%EC%8A%90%EB%9E%AD-%EC%9C%A0%EB%AA%85-%EB%A7%9B%EC%A7%91-%EC%84%B1%EC%A7%80-%EA%B0%80%EC%9D%B4%EB%93%9C/id6744295312)<br>UIKit, Realm<br>맛집 탐색 앱 v1                                           |
+| <img src="https://github.com/user-attachments/assets/b851c148-2545-4ce2-96d1-9e65ee452484" width="50" height="50">          | **DATEROAD** (`25.05 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/DATEROAD-iOS) \| [~~AppStore~~](#)<br>UIKit<br>데이트 코스 추천 서비스 앱                              |
+| <img src="https://github.com/user-attachments/assets/ac62f6a6-2353-4c2d-8860-568d9fc0399a" width="50" height="50">             | **Het-Je** (`25.03 ~ 25.10`) \| [GitHub](https://github.com/ParkSY0919/Het-Je-iOS)  <br>UIKit<br>코인 시세/NFT 탐색 앱                                                                        |
+| <img src="https://github.com/user-attachments/assets/6a2b3ec0-567d-4d7a-a177-17a635e0ce77" width="50" height="50">      | **LifeIsSulSul** (`25.08 ~ 25.08`) \| [GitHub](https://github.com/ParkSY0919/LifeIsSulSul) <br>UIKit<br>주량 체크 앱                                                             |
+| <img src="https://github.com/user-attachments/assets/246b8945-83d4-4550-abba-e6ccae9acf10" width="50" height="50">            | **FilmAt** (`25.01 ~ 25.08`) \| [GitHub](https://github.com/ParkSY0919/FilmAt-iOS) <br>UIKit<br>영화 정보 탐색 앱                                                                            |
+| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="50">          | **TamaGrow-iOS** (`25.02 ~ 25.03`) \| [GitHub](https://github.com/ParkSY0919/TamaGrow-iOS) <br>UIKit<br>타마고치 모티브 육성 앱                                                                          |
 
 ### 🛠 Side Projects
 
@@ -51,7 +51,7 @@
 
 | 기간                | 대외활동     | 역할       |
 | ------------------- | ------------ | ---------- |
-| `2024.12 ~ 2025.06` | `SeSAC iOS` | `수료생` |
+| `2024.12 ~ 2025.06` | `SeSAC iOS` | `수료` |
 | `2024.03 ~ 2024.07` | `SOPT 34기` | `iOS 파트원` |
 | `2023.09 ~ 2024.02` | `CodingBottle-1st` | `iOS 파트장` |
 | `2022.09 ~ 2023.03` | `GDSC SKHU-1st` | `모바일 파트원` |
