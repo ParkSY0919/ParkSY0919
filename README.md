@@ -40,9 +40,10 @@
 
 |                                                                |                                                                                                                                                                                                                       |
 | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="50">       | **ColorKit** (`25.09 ~ 26.02`) \| [GitHub](https://github.com/ParkSY0919/ColorKit)<br>Swift Package Manager, Design Token(JSON), Build Tool Plugin<br>디자인 토큰 기반 색상 로딩 및 코드 생성 라이브러리              |
-| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="50"> | **UpdateCheckKit** (`25.10 ~ 26.03`) \| [GitHub](https://github.com/ParkSY0919/UpdateCheckKit)<br>Swift Package Manager, App Store Lookup, Version Check<br>업데이트 체크/알림/스토어 이동 흐름을 단순화한 라이브러리 |
-| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="50">        | **Knocker** (`25.12 ~ 26.01`) \| [GitHub](https://github.com/SwiftForge-psy/Knocker)<br>Swift Package Manager, Push Notification, Rich Notification<br>푸시 권한/토큰/페이로드 처리 통합 라이브러리                   |
+| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="70" height="50">        | **Knocker** (`26.03`) \| [GitHub](https://github.com/SwiftForge-psy/Knocker)<br>Swift Package Manager, Push Notification, Rich Notification<br>푸시 권한/토큰/페이로드 처리 통합 라이브러리                   |
+| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="70" height="50">       | **ColorKit** (`26.01`) \| [GitHub](https://github.com/ParkSY0919/ColorKit)<br>Swift Package Manager, Design Token(JSON), Build Tool Plugin<br>디자인 토큰 기반 색상 로딩 및 코드 생성 라이브러리              |
+| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="70" height="50"> | **UpdateCheckKit** (`25.10 ~ 25.12`) \| [GitHub](https://github.com/ParkSY0919/UpdateCheckKit)<br>Swift Package Manager, App Store Lookup, Version Check<br>업데이트 체크/알림/스토어 이동 흐름을 단순화한 라이브러리 |
+
 
 <br>
 
