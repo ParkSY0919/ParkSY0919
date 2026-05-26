@@ -16,13 +16,13 @@
 
 |                                                                                                                    |                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/4bf84c60-bb6b-455e-8b7a-90e86a80f335" width="50" height="50"> | **빵도장** \| [GitHub](https://github.com/ParkSY0919/BreadStamp) <br> 개발 `26.01 ~ 26.01`<br>SwiftUI, MVVM + @Observable |
-| <img src="https://github.com/user-attachments/assets/4ef6812a-bbdd-4fc9-a811-3ce65b49962d" width="50" height="50"> | **GLINT** \| [GitHub](https://github.com/ParkSY0919/GLINT-iOS)<br>개발 `25.05 ~ 25.07`<br>SwiftUI, MVI + Clean Architecture |
-| <img src="https://github.com/user-attachments/assets/545164e9-e9e8-4d45-a3d0-6ee67be1c418" width="50" height="50"> | **성지슐랭** \| [GitHub](https://github.com/ParkSY0919/SeongjiChelin-iOS) \| [App Store](https://apps.apple.com/kr/app/%EC%84%B1%EC%A7%80%EC%8A%90%EB%9E%AD-%EC%9C%A0%EB%AA%85-%EB%A7%9B%EC%A7%91-%EC%84%B1%EC%A7%80-%EA%B0%80%EC%9D%B4%EB%93%9C/id6744295312)<br>개발 `25.03 ~ 25.03` · 운영 `25.03 ~ ing`<br>UIKit, MVVM + Coordinator |
-| <img src="https://github.com/user-attachments/assets/b851c148-2545-4ce2-96d1-9e65ee452484" width="50" height="50"> | **DATEROAD** \| [GitHub](https://github.com/ParkSY0919/DATEROAD-iOS) \| 서비스 종료<br>개발 `25.05 ~ 26.02` · 운영 `24.08 ~ 25.11`<br>UIKit, MVVM + Custom Observable |
-| <img src="https://github.com/user-attachments/assets/ac62f6a6-2353-4c2d-8860-568d9fc0399a" width="50" height="50"> | **Het-Je** \| [GitHub](https://github.com/ParkSY0919/Het-Je-iOS)<br>개발 `25.03 ~ 25.04`<br>UIKit, MVVM + Input/Output |
-| <img src="https://github.com/user-attachments/assets/6a2b3ec0-567d-4d7a-a177-17a635e0ce77" width="50" height="50"> | **LifeIsSulSul** \| [GitHub](https://github.com/ParkSY0919/LifeIsSulSul)<br>개발 `25.08 ~ 25.08`<br>SwiftUI, MVVM, WidgetKit |
-| <img src="https://github.com/user-attachments/assets/24a5b674-1cb1-4bc2-8ef9-589c1d1165a0" width="50" height="50"> | **CoPro** \| [GitHub](https://github.com/Nangman-Archive/CoPro_iOS) \| 서비스 종료<br>개발 `23.10 ~ 24.04` · 운영 `24.06 ~ 25.06`<br>UIKit, MVC/MVVM |
+| <img src="https://github.com/user-attachments/assets/4bf84c60-bb6b-455e-8b7a-90e86a80f335" width="50" height="50"> | **빵도장** \| [GitHub](https://github.com/ParkSY0919/BreadStamp) <br>SwiftUI, MVVM + @Observable |
+| <img src="https://github.com/user-attachments/assets/4ef6812a-bbdd-4fc9-a811-3ce65b49962d" width="50" height="50"> | **GLINT** \| [GitHub](https://github.com/ParkSY0919/GLINT-iOS)<br>SwiftUI, MVI + Clean Architecture |
+| <img src="https://github.com/user-attachments/assets/545164e9-e9e8-4d45-a3d0-6ee67be1c418" width="50" height="50"> | **성지슐랭** \| [GitHub](https://github.com/ParkSY0919/SeongjiChelin-iOS) \| [App Store](https://apps.apple.com/kr/app/%EC%84%B1%EC%A7%80%EC%8A%90%EB%9E%AD-%EC%9C%A0%EB%AA%85-%EB%A7%9B%EC%A7%91-%EC%84%B1%EC%A7%80-%EA%B0%80%EC%9D%B4%EB%93%9C/id6744295312) <br>`운영 25.03 ~ ing`<br>UIKit, MVVM + Coordinator |
+| <img src="https://github.com/user-attachments/assets/b851c148-2545-4ce2-96d1-9e65ee452484" width="50" height="50"> | **DATEROAD** \| [GitHub](https://github.com/ParkSY0919/DATEROAD-iOS) \| <ins>서비스 종료</ins> <br>`운영 24.08 ~ 25.11`<br>UIKit, MVVM + Custom Observable |
+| <img src="https://github.com/user-attachments/assets/ac62f6a6-2353-4c2d-8860-568d9fc0399a" width="50" height="50"> | **Het-Je** \| [GitHub](https://github.com/ParkSY0919/Het-Je-iOS)<br>UIKit, MVVM + Input/Output |
+| <img src="https://github.com/user-attachments/assets/6a2b3ec0-567d-4d7a-a177-17a635e0ce77" width="50" height="50"> | **LifeIsSulSul** \| [GitHub](https://github.com/ParkSY0919/LifeIsSulSul)<br>SwiftUI, MVVM, WidgetKit |
+| <img src="https://github.com/user-attachments/assets/24a5b674-1cb1-4bc2-8ef9-589c1d1165a0" width="50" height="50"> | **CoPro** \| [GitHub](https://github.com/Nangman-Archive/CoPro_iOS) \| <ins>서비스 종료</ins> <br>`운영 24.06 ~ 25.06`<br>UIKit, MVC/MVVM |
 
 
 
@@ -33,9 +33,9 @@
 
 |                                                                                                                    |                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="30"> | **Knocker** \| [GitHub](https://github.com/SwiftForge-psy/Knocker)<br>개발 `26.03`<br> 분산된 Push Notification 처리 흐름을 일관되게 통합한 라이브러리   |
-| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="30"> | **ColorKit** \| [GitHub](https://github.com/ParkSY0919/ColorKit)<br>개발 `26.01`<br> 디자인 토큰을 타입 안전한 Swift Color 코드로 생성하는 라이브러리    |
-| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="30"> | **UpdateCheckKit** \| [GitHub](https://github.com/ParkSY0919/UpdateCheckKit)<br>개발 `25.10 ~ 25.12`<br> 앱 업데이트 체크와 강제 업데이트 흐름을 단순화한 라이브러리 |
+| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="30"> | **Knocker** \| [GitHub](https://github.com/SwiftForge-psy/Knocker)<br> 분산된 Push Notification 처리 흐름을 일관되게 통합한 라이브러리   |
+| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="30"> | **ColorKit** \| [GitHub](https://github.com/ParkSY0919/ColorKit)<br>디자인 토큰을 타입 안전한 Swift Color 코드로 생성하는 라이브러리    |
+| <img src="https://github.com/user-attachments/assets/3f63b244-bf45-477d-af99-7c313e4aae8a" width="50" height="30"> | **UpdateCheckKit** \| [GitHub](https://github.com/ParkSY0919/UpdateCheckKit)<br>앱 업데이트 체크와 강제 업데이트 흐름을 단순화한 라이브러리 |
 
 </td>
 </tr>
